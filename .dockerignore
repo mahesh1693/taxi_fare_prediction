@@ -1,0 +1,25 @@
+#python 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.python
+venv/
+env/
+.env
+.git
+.gitignore
+
+*.joblib
+*.h5
+
+#os files
+.DS_Store
+Thumbs.db
+
+#Docker files
+*.tar
+
+#vs code
+.vscode/
